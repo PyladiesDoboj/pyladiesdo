@@ -1,2 +1,2 @@
-web: gunicorn app:pyladiesdo
+web: gunicorn run:pyladiesdo
 
