@@ -3,7 +3,7 @@
 pyladiesdo = Flask(__name__)
 
 
-@my_awesome_app.route('/')
+@pyladiesdo.route('/')
 def hello_world():
     return 'Hello World!'
 
